@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio_React_Page/static/css/main.8495095f.chunk.css",
+    "main.js": "/Portfolio_React_Page/static/js/main.f926fd42.chunk.js",
+    "main.js.map": "/Portfolio_React_Page/static/js/main.f926fd42.chunk.js.map",
+    "runtime-main.js": "/Portfolio_React_Page/static/js/runtime-main.18cde0e5.js",
+    "runtime-main.js.map": "/Portfolio_React_Page/static/js/runtime-main.18cde0e5.js.map",
+    "static/css/2.c3715205.chunk.css": "/Portfolio_React_Page/static/css/2.c3715205.chunk.css",
+    "static/js/2.f031268e.chunk.js": "/Portfolio_React_Page/static/js/2.f031268e.chunk.js",
+    "static/js/2.f031268e.chunk.js.map": "/Portfolio_React_Page/static/js/2.f031268e.chunk.js.map",
+    "index.html": "/Portfolio_React_Page/index.html",
+    "static/css/2.c3715205.chunk.css.map": "/Portfolio_React_Page/static/css/2.c3715205.chunk.css.map",
+    "static/css/main.8495095f.chunk.css.map": "/Portfolio_React_Page/static/css/main.8495095f.chunk.css.map",
+    "static/js/2.f031268e.chunk.js.LICENSE.txt": "/Portfolio_React_Page/static/js/2.f031268e.chunk.js.LICENSE.txt",
+    "static/media/animal.d9c1f066.jpg": "/Portfolio_React_Page/static/media/animal.d9c1f066.jpg",
+    "static/media/cat.9f1d83ef.jpg": "/Portfolio_React_Page/static/media/cat.9f1d83ef.jpg",
+    "static/media/elk.278ee5a9.jpg": "/Portfolio_React_Page/static/media/elk.278ee5a9.jpg",
+    "static/media/squireel.878e46ee.jpg": "/Portfolio_React_Page/static/media/squireel.878e46ee.jpg",
+    "static/media/weld.fe171048.png": "/Portfolio_React_Page/static/media/weld.fe171048.png",
+    "static/media/weld1.3b16da54.jpg": "/Portfolio_React_Page/static/media/weld1.3b16da54.jpg",
+    "static/media/weld2.a33c2e53.jpg": "/Portfolio_React_Page/static/media/weld2.a33c2e53.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18cde0e5.js",
+    "static/css/2.c3715205.chunk.css",
+    "static/js/2.f031268e.chunk.js",
+    "static/css/main.8495095f.chunk.css",
+    "static/js/main.f926fd42.chunk.js"
+  ]
+}
